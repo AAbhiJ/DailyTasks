@@ -1,0 +1,24 @@
+.swatch_1{
+    background: #e6eeff;
+}
+.swatch_2{
+    background: #a1b3d2;
+}
+.swatch_3{
+    background: #0536ff;
+}
+.swatch_4{
+    background: #6ea0ff;
+}
+.swatch_5{
+    background: #7889a4;
+}
+.swatch_6{
+    background: #2662ff;
+}
+.swatch_7{
+    background: #324567;
+}
+.swatch_8{
+    background: #5a719d;
+}
