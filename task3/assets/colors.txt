@@ -1,0 +1,6 @@
+Table 1
+Table heading background : #6e7bd8
+Row color : #f8f6fe
+
+Table 2
+Table heading text : #be6d73
